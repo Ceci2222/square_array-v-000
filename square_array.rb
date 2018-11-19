@@ -1,3 +1,5 @@
 def square_array(array)
-  # your code here
+  square_array.each do |square|
+    #{square}**2
+  end
 end
