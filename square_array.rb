@@ -3,5 +3,3 @@ def square_array(array)
    puts (number*number)
   end
 end
-
-square_array([2,4,3])
