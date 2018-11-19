@@ -1,6 +1,6 @@
 def square_array(array)
   array.each do |number|
-    print (number*number)
+    puts (number*number)
   end
 end
 
