@@ -3,3 +3,5 @@ def square_array(array)
     print (number*number)
   end
 end
+
+square_array([1,2,3])
